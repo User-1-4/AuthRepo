@@ -7,23 +7,7 @@
             "backgroundImage": "https://adaptivecards.io/content/AlkiBeach.jpg",
             "items": [
                 {
-                    "type": "TextBlock",
-                    "text": "What a beautiful background"
-                }
-            ]
-        },
-        {
-            "type": "TextBlock",
-            "text": "They can even repeat a bunch of different ways..."
-        },
-        {
-            "type": "Container",
-            "minHeight": "100px",
-            "backgroundImage": {
-                "url": "https://adaptivecards.io/content/uparrow.png",
-                "fillMode": "Repeat"
-            },
-            "items": []
+         
         },
         {
             "type": "Container",
